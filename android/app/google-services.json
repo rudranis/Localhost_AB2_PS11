@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "142393083383",
+    "project_id": "human-crisis-app",
+    "storage_bucket": "human-crisis-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142393083383:android:9c40550192b8cc901a1af2",
+        "android_client_info": {
+          "package_name": "com.example.crisis_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABimluQR1ceOU80pdQUrSfPQk0ucTaPeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
